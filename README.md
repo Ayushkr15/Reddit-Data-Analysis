@@ -7,12 +7,6 @@ Analyzing engagement and trends in Reddit posts, with a focus on understanding p
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Visualizations](#visualizations)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
