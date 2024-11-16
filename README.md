@@ -26,3 +26,8 @@ This project explores a dataset of Reddit posts to uncover insights into user en
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd Reddit-Data-Analysis
+# PowerBI Dashboard
+
+![image](https://github.com/user-attachments/assets/f47d3c10-e311-4f53-919e-4e69f2e214e2)
+![image](https://github.com/user-attachments/assets/ec11cf4a-3463-42e4-8a86-f6b29b4d58b2)
+![image](https://github.com/user-attachments/assets/2c23c186-b0f8-4797-a035-d129d8a2a658)
